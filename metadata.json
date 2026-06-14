@@ -1,0 +1,6 @@
+{
+  "name": "ASUNA AI",
+  "description": "Your personal AI assistant — powered by Gemini with Asuna Yuki personality",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
